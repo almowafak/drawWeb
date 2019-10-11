@@ -1,2 +1,0 @@
-# drawWeb
-Created with CodeSandbox
